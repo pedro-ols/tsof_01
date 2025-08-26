@@ -1,0 +1,18 @@
+{
+  "name": "aula01",
+  "version": "1.0.0",
+  "description": "Repositório para aula inicial de Testes de Software",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "Javacript",
+    "TSOF",
+    "Jest"
+  ],
+  "author": "Pedro Santos",
+  "license": "MIT"
+}
